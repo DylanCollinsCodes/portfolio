@@ -704,7 +704,7 @@ input, select, textarea {
 				width: 100%;
 			}
 				.image.main.intro{
-					width: 50%
+					width: 100%
 				}
 
 		@media screen and (max-width: 736px) {
@@ -1669,8 +1669,15 @@ input, select, textarea {
 			list-style: none;
 			text-align: center;
 			text-decoration: none;
-			margin-top: 5%;
 			border-bottom: none;
+		}
+
+		.siteNav {
+			margin-top: 5%;
+		}
+
+		.siteNav ul li a {
+			margin: none; 
 		}
 		
 		.siteNav li {
