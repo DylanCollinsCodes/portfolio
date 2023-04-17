@@ -704,7 +704,7 @@ input, select, textarea {
 				width: 100%;
 			}
 				.image.main.intro{
-					width: 100%
+					width: 100%;
 				}
 
 		@media screen and (max-width: 736px) {
@@ -1709,20 +1709,20 @@ input, select, textarea {
 			padding-bottom: 5px;
 		}
 
-		#kingsAndPigs,#anniversaryPage,#pokemonComparisons,#forestryForum{
+		#kingsAndPigs,#anniversaryPage,#pokemonComparisons,#forestryForum,#COM{
 			width: 100%;
 
 		}
 
-		#kingsAndPigs:hover,#anniversaryPage:hover,#pokemonComparisons:hover,#forestryForum:hover{
+		#kingsAndPigs:hover,#anniversaryPage:hover,#pokemonComparisons:hover,#forestryForum:hover,#COM:hover{
 			transform: scale(1.05);
 		}
 
-		#pigsTitle,#anniversaryTitle,.stack,#pokeTitle,#forestryTitle{
+		#pigsTitle,#anniversaryTitle,.stack,#pokeTitle,#forestryTitle,#COMTitle{
 			font-size: 25px;
 			font-weight: 900;
 		}
 
-		#anniversaryPage,#kingsAndPigs,#pokemonComparisons{
+		#anniversaryPage,#kingsAndPigs,#pokemonComparisons,#COM{
 			margin-top: 20%;
 		}
